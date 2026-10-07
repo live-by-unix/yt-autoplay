@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build artifacts
+dist/
+build/
+*.zip
+*.crx
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+logs/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Package manager files
+package.json
+generate-icons.js
+
+# Keep only essential extension files
+# The following should be committed:
+# - manifest.json
+# - content.js
+# - icons/
+# - README.md
+# - LICENSE
+# - docs/
+# - .gitignore
