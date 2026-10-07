@@ -19,7 +19,8 @@ A lightweight Chrome extension that automatically advances to the next YouTube S
 3. Enable "Developer mode" in the top right corner
 4. Click "Load unpacked"
 5. Select the `autoplay` directory
-6. The extension is now active!
+6. Pin the extension (optional)
+7. The extension is now active!
 
 For detailed installation instructions, see [docs/INSTALL.md](docs/INSTALL.md)
 
